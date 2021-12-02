@@ -5,7 +5,7 @@ public class Welcome {
     System.out.println("Hello Shankavi !!!");
     System.out.println("Hello Shankavi !!!");
 	 
-   //System.out.println("How are you);
+   System.out.println("How are you);
 //System.out.println("Welcome To HCL...");
 	 
 //System.out.println("Welcome To HCL...");
