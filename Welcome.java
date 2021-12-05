@@ -4,7 +4,7 @@ public class Welcome {
   // TODO Auto-generated method stub
     System.out.println("Hello Shankavi !!!");
    // System.out.println("Hello Shankavi !!!");
-	System.out.println("How are you); 
+	//System.out.println("How are you); 
   System.out.println("How are you);
 System.out.println("Welcome To HCL...");
 	 
