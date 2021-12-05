@@ -8,7 +8,7 @@ public class Welcome {
   System.out.println("How are you);
 System.out.println("Welcome To HCL...");
 	 
-//System.out.println("Welcome To HCL...");
+System.out.println("Welcome To HCL...");
  }
 
 }
